@@ -11,7 +11,7 @@ import SwiftUI
 struct ConversorRomanoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ConversorView()
         }
     }
 }

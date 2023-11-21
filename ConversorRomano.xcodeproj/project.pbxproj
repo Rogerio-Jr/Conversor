@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		119CA7042B0BC45F009543C5 /* ConversorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CA7032B0BC45F009543C5 /* ConversorView.swift */; };
 		11A8034C2B0B096200B39673 /* ConversorRomanoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A8034B2B0B096200B39673 /* ConversorRomanoApp.swift */; };
-		11A8034E2B0B096200B39673 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A8034D2B0B096200B39673 /* ContentView.swift */; };
 		11A803502B0B096300B39673 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11A8034F2B0B096300B39673 /* Assets.xcassets */; };
 		11A803532B0B096300B39673 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11A803522B0B096300B39673 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		119CA7032B0BC45F009543C5 /* ConversorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversorView.swift; sourceTree = "<group>"; };
 		11A803482B0B096200B39673 /* ConversorRomano.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConversorRomano.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11A8034B2B0B096200B39673 /* ConversorRomanoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversorRomanoApp.swift; sourceTree = "<group>"; };
-		11A8034D2B0B096200B39673 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		11A8034F2B0B096300B39673 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11A803522B0B096300B39673 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				11A8034B2B0B096200B39673 /* ConversorRomanoApp.swift */,
-				11A8034D2B0B096200B39673 /* ContentView.swift */,
+				119CA7032B0BC45F009543C5 /* ConversorView.swift */,
 				11A8034F2B0B096300B39673 /* Assets.xcassets */,
 				11A803512B0B096300B39673 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11A8034E2B0B096200B39673 /* ContentView.swift in Sources */,
+				119CA7042B0BC45F009543C5 /* ConversorView.swift in Sources */,
 				11A8034C2B0B096200B39673 /* ConversorRomanoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
